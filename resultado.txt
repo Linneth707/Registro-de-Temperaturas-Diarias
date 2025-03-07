@@ -1,0 +1,18 @@
+Ciudad: Ciudad 1
+  Semana 1: Promedio de temperatura = 27.00°C
+  Semana 2: Promedio de temperatura = 23.57°C
+  Semana 3: Promedio de temperatura = 25.86°C
+  Semana 4: Promedio de temperatura = 20.57°C
+
+Ciudad: Ciudad 2
+  Semana 1: Promedio de temperatura = 28.14°C
+  Semana 2: Promedio de temperatura = 23.57°C
+  Semana 3: Promedio de temperatura = 26.29°C
+  Semana 4: Promedio de temperatura = 28.43°C
+
+Ciudad: Ciudad 3
+  Semana 1: Promedio de temperatura = 25.43°C
+  Semana 2: Promedio de temperatura = 24.71°C
+  Semana 3: Promedio de temperatura = 25.86°C
+  Semana 4: Promedio de temperatura = 22.43°C
+
